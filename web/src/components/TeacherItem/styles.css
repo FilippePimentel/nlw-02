@@ -87,7 +87,7 @@
         display: initial;
         margin-left: 1.6rem;
     }
-    .teacher-item footer button {
+    .teacher-item footer a {
         width: 24.5rem;
         font-size: 1.6rem;
         justify-content: center;
